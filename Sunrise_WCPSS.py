@@ -6,7 +6,7 @@ Created on March 12, 2017
 for the WRAL Weather Blog.  Analysis of the Wake County Schools traditional calendar and
 proposed bell schedule changes against sunrise times. Calculations are aligned with 
 the US Naval Observatory's navigational definition of sunrise which accounts for 
-34 arc seconds of atmospheric refraction.
+34 arcminutes of atmospheric refraction.
 
 Current and 2017-18 proposed bell schedules are from the Board of Education Work Session 3/7/2017
 https://simbli.eboardsolutions.com/Meetings/ViewMeetingOrder.aspx?S=920&MID=3102
